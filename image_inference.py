@@ -58,7 +58,7 @@ def getFaceLandmark(fileitem):
     return rect_min,rec_max,landmark
 
 ###########################
-filepath = os.path.join(BASE_DIR,'stroke-normal_dataset_processed\Train\\normal\download.png')
+filepath = os.path.join(BASE_DIR,'3F19DDAA-41C3-47B9-94DF-6BDBFC106751.jpg')
 ###########################
 
 # # extract a single face from a given photograph
